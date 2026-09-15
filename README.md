@@ -758,6 +758,12 @@ Needs magmascript 3.2 or newer. See [examples/hello.mgs](examples/hello.mgs).
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for setup, tests, and the release process.
 
+
+## Support This Project
+
+If you find this useful, consider supporting its development:
+
+[![Sponsor](https://img.shields.io/badge/%E2%9D%A4_Sponsor-pink)](https://github.com/sponsors/magmacrunch-media)
 ## License
 
 Apache-2.0. Copyright 2026 magmacrunch media.

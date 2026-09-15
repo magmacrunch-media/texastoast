@@ -44,6 +44,7 @@ Source = "https://github.com/magmacrunch-media/texastoast"
 Issues = "https://github.com/magmacrunch-media/texastoast/issues"
 Documentation = "https://github.com/magmacrunch-media/texastoast/wiki"
 Changelog = "https://github.com/magmacrunch-media/texastoast/blob/main/CHANGELOG.md"
+Funding = "https://github.com/sponsors/magmacrunch-media"
 
 [project.optional-dependencies]
 hardware = ["smbus2>=0.6"]
